@@ -14,6 +14,10 @@
 <img width="6%" title="Telegram" src="image/logo/Telegram.svg">
 </p>
 
+## My projects:
+###  <a target="_blank" href="https://github.com/KirillCnv/HW_11">UI Autotests</a> for <a target="_blank" href="https://www.lamoda.ru/"> Lamoda</a> website
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KirillCnv)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KirillCnv)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirillCnv)
