@@ -16,6 +16,7 @@
 
 ## My projects:
 ###  <a target="_blank" href="https://github.com/KirillCnv/HW_11">UI Autotests</a> for <a target="_blank" href="https://www.lamoda.ru/"> Lamoda</a> website
+###  <a target="_blank" href="https://github.com/KirillCnv/HW_12_REST-API">UI Autotests</a> for <a target="_blank" href="https://reqres.in/"> Lamoda</a> website
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KirillCnv)
